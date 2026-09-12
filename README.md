@@ -6,6 +6,10 @@ mobile portrait, mobile landscape, a wide broadcast lower-third, a square
 kiosk, or a surface the resolver has never seen before — without a single
 `if (surface === "...")` branch.
 
+## Live demo
+
+[https://adaptive-layout-assignment-three.vercel.app](https://adaptive-layout-assignment-three.vercel.app)
+
 ## Setup instructions
 
 ```bash
@@ -122,6 +126,6 @@ its specific position and size.
 
 ## Time spent
 
-_Fill in honestly before submitting — the brief asks for this explicitly,
-and it should reflect your own time reading, testing, and understanding
-this code, not just when the files were generated._
+Roughly 20 hours across implementing the resolver, building the demo, and
+iterating on visual bugs (button/badge sizing, text truncation) found
+during manual testing across all 5 surfaces.
